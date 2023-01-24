@@ -23,7 +23,6 @@ async function fetchBalance(wallet){
                 'sec-fetch-mode': 'cors',
                 'sec-fetch-site': 'same-site',
                 'source': 'web',
-                'x-api-ts': '1674564534',
                 'x-api-ver': 'v2'
             }
     });
